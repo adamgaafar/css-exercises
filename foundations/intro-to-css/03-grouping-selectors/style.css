@@ -1,0 +1,14 @@
+#fbtn,
+#sbtn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#fbtn {
+    background-color: black;
+    color: white;
+}
+
+#sbtn {
+    background-color: yellow;
+}
