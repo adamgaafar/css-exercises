@@ -1,0 +1,27 @@
+* {
+    padding: auto;
+}
+
+.pink {
+    background-color: rgb(253, 145, 163);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    margin: 5px;
+}
+
+.cooler {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+#purple-p {
+    font-size: 32px;
+    color: blue;
+    margin: 20px;
+}
+
+#green-p {
+    background-color: rgb(136, 202, 136);
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+}

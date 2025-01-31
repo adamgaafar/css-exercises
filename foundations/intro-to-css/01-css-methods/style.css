@@ -2,23 +2,10 @@
     margin-left: 10px;
 }
 
-.header {
+div {
     background-color: red;
     text-align: center;
     font-size: 32px;
     color: white;
     font-weight: bold;
-}
-
-.description {
-    background-color: green;
-    color: white;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-size: 18px;
-}
-
-.btn-meth {
-    background-color: orange;
-    font-size: 18px;
 }
